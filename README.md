@@ -2,7 +2,7 @@
 
 Use:
 
-composer require ferrewagner/ferreimgdetail
+composer require FreeSpider/Alexa-Img
 
 
 Written and maintained by Ferre.
