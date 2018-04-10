@@ -2,8 +2,8 @@
 <p align="center">
 <a href="https://travis-ci.org/FreeSpider/Alexa-Img"><img src="https://travis-ci.org/FreeSpider/Alexa-Img.svg?branch=master"></a>
 <!-- <a href="https://travis-ci.org/FreeSpider/Alexa-Img"><img src="https://img.shields.io/github/release/FreeSpider/Alexa-Img.svg"></a> -->
-<a href=""><img src="https://img.shields.io/badge/license-MIT-3e8374.svg"></a>
-<a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/language-php-45d298.svg"></a>
+<a href="https://github.com/FreeSpider/Alexa-Img/blob/master/LICENSE"><img src="https://img.shields.io/badge/license-MIT-3e8374.svg"></a>
+<a href=""><img src="https://img.shields.io/badge/language-php-45d298.svg"></a>
 </p>
 <br />
 
