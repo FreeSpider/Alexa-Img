@@ -1,11 +1,19 @@
-# Picture processing based on GD Library. #
-[![Build Status](https://travis-ci.org/FreeSpider/Alexa-Img.svg?branch=master)](https://travis-ci.org/FreeSpider/Alexa-Img)
-[![version](https://img.shields.io/github/release/FreeSpider/Alexa-Img.svg)](https://travis-ci.org/FreeSpider/Alexa-Img)
-[![license](https://img.shields.io/badge/license-MIT-3e8374.svg)](https://travis-ci.org/FreeSpider/Alexa-Img)
-
+<p align="center" style="margin-left: 200px;"><img src="alexa-logo.png"></p>
+<p align="center">
+<a href="https://travis-ci.org/FreeSpider/Alexa-Img"><img src="https://travis-ci.org/FreeSpider/Alexa-Img.svg?branch=master"></a>
+<a href="https://travis-ci.org/FreeSpider/Alexa-Img"><img src="https://img.shields.io/github/release/FreeSpider/Alexa-Img.svg"></a>
+<a href=""><img src="https://img.shields.io/badge/license-MIT-3e8374.svg"></a>
+<a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/language-php-45d298.svg"></a>
+</p>
+<br />
+## Picture processing based on GD Library. ##
 Use:
 
-composer require FreeSpider/Alexa-Img
-
+**composer require FreeSpider/Alexa-Img**
 
 Written and maintained by Ferre.
+
+
+## Lisence ##
+
+[MIT](https://opensource.org/licenses/MIT "MIT")
