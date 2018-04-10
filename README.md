@@ -6,7 +6,9 @@
 <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/language-php-45d298.svg"></a>
 </p>
 <br />
+
 ## Picture processing based on GD Library. ##
+
 Use:
 
 **composer require FreeSpider/Alexa-Img**
