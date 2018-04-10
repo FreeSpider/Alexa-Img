@@ -1,4 +1,4 @@
-<p align="center"><img src="alexa-logo.png"></p>
+<p align="center"><img src="alexa-logo1.png"></p>
 <p align="center">
 <a href="https://travis-ci.org/FreeSpider/Alexa-Img"><img src="https://travis-ci.org/FreeSpider/Alexa-Img.svg?branch=master"></a>
 <a href="https://travis-ci.org/FreeSpider/Alexa-Img"><img src="https://img.shields.io/github/release/FreeSpider/Alexa-Img.svg"></a>
